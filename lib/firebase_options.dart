@@ -50,22 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDpzDgJ7iHw-BXHeNLQbW-V7McJyfwUiOo',
-    appId: '1:463754159915:android:fd48d6734b492886bec76e',
-    messagingSenderId: '463754159915',
-    projectId: 'apps-movie-tv-ditonton',
-    databaseURL: 'https://apps-movie-tv-ditonton-default-rtdb.firebaseio.com',
-    storageBucket: 'apps-movie-tv-ditonton.appspot.com',
+    apiKey: 'AIzaSyCC67ZH1AJdyHvsOroMY86_0zJGhYTIQ2M',
+    appId: '1:899662647369:android:cf3ec6044e64a6b3f42f98',
+    messagingSenderId: '899662647369',
+    projectId: 'ditonton-final-9caf1',
+    storageBucket: 'ditonton-final-9caf1.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDuG0l1WVqQde9GcaeURWKRHz8WGdZARs0',
-    appId: '1:463754159915:ios:ec3e84d47bef3efabec76e',
-    messagingSenderId: '463754159915',
-    projectId: 'apps-movie-tv-ditonton',
-    databaseURL: 'https://apps-movie-tv-ditonton-default-rtdb.firebaseio.com',
-    storageBucket: 'apps-movie-tv-ditonton.appspot.com',
-    iosClientId: '463754159915-ugulba5ud36no21fp9a5eomh80vldo7a.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCi7n4yvgNKjuhjSp66EG1qGQmmXH-vrFI',
+    appId: '1:899662647369:ios:9dea35f05b48917ff42f98',
+    messagingSenderId: '899662647369',
+    projectId: 'ditonton-final-9caf1',
+    storageBucket: 'ditonton-final-9caf1.appspot.com',
+    iosClientId: '899662647369-irkmq71jur3vccf1ch2qkkq1p19v7d93.apps.googleusercontent.com',
     iosBundleId: 'com.dicoding.ditonton',
   );
 }
