@@ -1,5 +1,5 @@
 import 'package:core/core.dart';
-import 'package:core/domain/usecases/tv/get_now_playing_tvs.dart';
+import 'package:core/domain/usecases/tv/get_on_the_air_tvs.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

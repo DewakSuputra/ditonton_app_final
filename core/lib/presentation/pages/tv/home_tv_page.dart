@@ -42,29 +42,29 @@ class _HomeTvPageState extends State<HomeTvPage> {
               accountEmail: Text('ditonton@dicoding.com'),
             ),
             ListTile(
-              leading: Icon(Icons.movie),
-              title: Text('Movies'),
+              leading: const Icon(Icons.movie),
+              title: const Text('Movies'),
               onTap: () {
                 Navigator.pushNamed(context, HomeMoviePage.ROUTE_NAME);
               },
             ),
             ListTile(
-              leading: Icon(Icons.live_tv),
-              title: Text('Tv Series'),
+              leading: const Icon(Icons.live_tv),
+              title: const Text('Tv Series'),
               onTap: () {
                 Navigator.pop(context);
               },
             ),
             ListTile(
-              leading: Icon(Icons.save_alt),
-              title: Text('Watchlist Movies'),
+              leading: const Icon(Icons.save_alt),
+              title: const Text('Watchlist Movies'),
               onTap: () {
                 Navigator.pushNamed(context, WatchlistMoviesPage.ROUTE_NAME);
               },
             ),
             ListTile(
-              leading: Icon(Icons.save_alt),
-              title: Text('Watchlist Tv'),
+              leading: const Icon(Icons.save_alt),
+              title: const Text('Watchlist Tv'),
               onTap: () {
                 Navigator.pushNamed(context, WatchlistTvsPage.ROUTE_NAME);
               },
@@ -97,7 +97,7 @@ class _HomeTvPageState extends State<HomeTvPage> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               _buildSubHeading(
-                title: 'Now Playing',
+                title: 'On the air',
                 onTap: () =>
                     Navigator.pushNamed(context, NowPlayingTvsPage.ROUTE_NAME),
               ),

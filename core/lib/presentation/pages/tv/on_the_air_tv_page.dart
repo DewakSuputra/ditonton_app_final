@@ -25,7 +25,7 @@ class _NowPlayingTvsPageState extends State<NowPlayingTvsPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Now Playing'),
+        title: const Text('On the air'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
