@@ -50,3 +50,5 @@ Jika kamu menerapkan modular pada project, Anda dapat memanfaatkan berkas `test.
     Proses ini akan men-*generate* berkas `lcov.info` dan folder `coverage` terkait dengan laporan coverage.
 4. Tunggu proses testing selesai hingga muncul web terkait laporan coverage.
 
+Build CI
+![Build CI](https://user-images.githubusercontent.com/93661562/206052128-f6b25241-8e4a-49c7-b193-c5eab60c2c16.png)
