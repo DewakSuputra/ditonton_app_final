@@ -56,6 +56,6 @@ Build CI
 Firebase Analytics
 ![Firebase analytics](https://user-images.githubusercontent.com/93661562/206142034-b7d0267b-67e6-49cc-b495-45ec9eccc06c.png)
 
-![Firebase analytics (2)](https://user-images.githubusercontent.com/93661562/206052948-98110b28-c521-4739-85e7-ad4c857c80e5.png)
+![Firebase analytics (2)](https://user-images.githubusercontent.com/93661562/206142454-156e7f94-3a76-437c-985e-899ad8740664.png)
 
 ![Crashlytics](https://user-images.githubusercontent.com/93661562/206053342-85baf87d-16ad-4dc4-bba2-8009c368bead.png)
