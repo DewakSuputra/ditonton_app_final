@@ -52,3 +52,6 @@ Jika kamu menerapkan modular pada project, Anda dapat memanfaatkan berkas `test.
 
 Build CI
 ![Build CI](https://user-images.githubusercontent.com/93661562/206052128-f6b25241-8e4a-49c7-b193-c5eab60c2c16.png)
+
+Firebase Analytics
+![Firebase analytics](https://user-images.githubusercontent.com/93661562/206052716-0b8c8e3a-55bb-43bf-a0d3-e4fadeccb412.png)
