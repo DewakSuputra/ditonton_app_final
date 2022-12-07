@@ -54,7 +54,7 @@ Build CI
 ![Build CI](https://user-images.githubusercontent.com/93661562/206052128-f6b25241-8e4a-49c7-b193-c5eab60c2c16.png)
 
 Firebase Analytics
-![Firebase analytics](https://user-images.githubusercontent.com/93661562/206052716-0b8c8e3a-55bb-43bf-a0d3-e4fadeccb412.png)
+![Firebase analytics](https://user-images.githubusercontent.com/93661562/206142034-b7d0267b-67e6-49cc-b495-45ec9eccc06c.png)
 
 ![Firebase analytics (2)](https://user-images.githubusercontent.com/93661562/206052948-98110b28-c521-4739-85e7-ad4c857c80e5.png)
 
